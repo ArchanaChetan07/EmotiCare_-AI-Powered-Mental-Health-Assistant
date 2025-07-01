@@ -1,0 +1,33 @@
+# Core NLP & ML
+transformers
+datasets
+torch
+scikit-learn
+pandas
+numpy
+
+# Text preprocessing
+nltk
+emoji
+beautifulsoup4
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Dashboard & App
+streamlit
+langchain
+openai
+tiktoken
+
+# Utilities
+python-dotenv
+joblib
+
+# Testing
+pytest
+
+# For GPU (optional)
+accelerate
