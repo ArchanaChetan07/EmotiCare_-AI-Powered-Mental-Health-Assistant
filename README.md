@@ -1,7 +1,5 @@
 # EmotiCare_-AI-Powered-Mental-Health-Assistant
 
-# 🤖 EmotiCare: AI-Powered Mental Health Assistant
-
 EmotiCare is a responsible, CBT-aligned mental health chatbot designed to deliver emotionally intelligent support and detect early signs of crisis. Built with DistilBERT, LangChain, and real-world counseling data, EmotiCare simulates therapist-style conversations in a privacy-first, always-on interface.
 
 ---
