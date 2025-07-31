@@ -1,0 +1,53 @@
+# LangChain ecosystem
+langchain
+langgraph
+langchain_community
+langchain_core
+langchain_groq
+langchain_openai
+
+# Retrieval and search
+faiss-cpu
+tavily-python
+
+# App UI
+streamlit
+
+# Data handling
+pandas
+numpy
+scikit-learn
+scipy
+
+# NLP
+nltk
+re
+emoji
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+plotly
+
+# Dimensionality Reduction
+umap-learn
+scikit-learn
+scipy
+scikit-learn-intelex
+
+# Clustering
+scikit-learn
+
+# Graph and Community Detection
+networkx
+python-louvain
+
+# TSNE
+scikit-learn
+
+# Misc
+tqdm
+jupyter
+ipykernel
+python-dotenv
